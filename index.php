@@ -1,6 +1,6 @@
 <?php
 
-echo "meu primeiro,<strong>codigo</strong> php!";
+echo "meusss primeiro,<strong>codigo</strong> php!";
 
 
 
